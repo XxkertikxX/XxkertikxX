@@ -2,9 +2,13 @@
 <p align="center">Hello, my name is Nicholas and this is my repository </p>
 
 <h2 align="center">Estudante | Desenvolvedor de jogos </h2>
-<p align="center">Estudent | Games Developer </p>
+<h2 align="center">Student | Games Developer </h2>
 <br><br>
 
--Email: **nicholasbritonabity@gmail.com**
-
+Trabalho: Estudante
+<br>
+Email: **nicholasbritonabity@gmail.com**
+<br>
+Estudando: GD#
+<br>
 
