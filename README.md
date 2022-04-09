@@ -12,3 +12,6 @@ Email: **nicholasbritonabity@gmail.com**
 Estudando: GD#
 <br>
 
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"><img height="55rem" width="55rem" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"/></a>
+<a href="https://pbs.twimg.com/profile_images/1201438188352483328/lDnpWrGJ_400x400.jpg"><img height="55rem" width="55rem" align="left" src="https://pbs.twimg.com/profile_images/1201438188352483328/lDnpWrGJ_400x400.jpg"/></a>
+
